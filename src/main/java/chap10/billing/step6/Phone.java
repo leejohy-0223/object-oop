@@ -1,10 +1,8 @@
 package chap10.billing.step6;
 
 import java.time.Duration;
-import java.util.ArrayList;
-import java.util.List;
 
-import chap5.money.Money;
+import chap05.money.Money;
 
 public class Phone extends AbstractPhone {
 

@@ -2,7 +2,7 @@ package chap10.billing.step7;
 
 import java.time.Duration;
 
-import chap5.money.Money;
+import chap05.money.Money;
 
 public class RegularPhone extends Phone {
 

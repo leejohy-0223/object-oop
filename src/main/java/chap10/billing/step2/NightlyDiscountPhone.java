@@ -4,7 +4,7 @@ import java.time.Duration;
 import java.util.ArrayList;
 import java.util.List;
 
-import chap5.money.Money;
+import chap05.money.Money;
 
 public class NightlyDiscountPhone {
     private static final int LATE_NIGHT_HOUR = 22;

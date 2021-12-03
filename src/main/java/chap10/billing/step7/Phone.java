@@ -3,7 +3,7 @@ package chap10.billing.step7;
 import java.util.ArrayList;
 import java.util.List;
 
-import chap5.money.Money;
+import chap05.money.Money;
 
 public abstract class Phone {
 

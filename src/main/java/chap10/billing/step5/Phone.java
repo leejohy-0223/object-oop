@@ -4,7 +4,7 @@ import java.time.Duration;
 import java.util.ArrayList;
 import java.util.List;
 
-import chap5.money.Money;
+import chap05.money.Money;
 
 /**
  * step 5 : Phone을 NightlyDiscountPhone에서 상속받는 상태에서, 세금 계산 요구가 들어왔을 경우를 가정하자.
